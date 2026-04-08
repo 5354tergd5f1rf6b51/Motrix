@@ -1,0 +1,10 @@
+# Cadastro de Cliente
+COMO atendente da oficina,
+QUERO cadastrar clientes no sistema,
+PARA registrar seus dados e facilitar o atendimento.
+Critérios de Aceitação:
+Deve ser possível informar nome, telefone e CPF do cliente
+O sistema deve validar se os campos obrigatórios foram preenchidos
+O sistema deve permitir editar ou excluir clientes cadastrados
+O sistema deve evitar cadastro duplicado
+O sistema deve listar os clientes cadastrados
