@@ -1,0 +1,14 @@
+Cadastro de Veículo
+COMO atendente da oficina,
+
+QUERO vincular um veículo ao cadastro de um cliente,
+
+PARA saber exatamente qual carro pertence a quem durante o serviço.
+
+Critérios de Aceitação:
+
+O sistema deve permitir informar placa, modelo, marca e ano do veículo.
+
+O sistema deve validar se a placa segue o formato padrão (Mercosul ou antigo).
+
+Um cliente deve poder ter mais de um veículo vinculado ao seu nome.
