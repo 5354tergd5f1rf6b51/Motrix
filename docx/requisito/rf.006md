@@ -1,0 +1,14 @@
+Registro de Pagamento e Fechamento
+COMO atendente da oficina,
+
+QUERO registrar a forma de pagamento e fechar a conta do cliente,
+
+PARA dar baixa financeira no serviço realizado.
+
+Critérios de Aceitação:
+
+O sistema deve calcular o valor total (peças + serviços) automaticamente.
+
+Deve ser possível selecionar a forma de pagamento (Dinheiro, Cartão, PIX).
+
+O sistema deve emitir um resumo do serviço para o cliente após o fechamento.
