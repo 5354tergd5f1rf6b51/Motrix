@@ -1,0 +1,14 @@
+Abertura de Ordem de Serviço (O.S.)
+COMO atendente da oficina,
+
+QUERO criar uma nova ordem de serviço para um veículo,
+
+PARA registrar o que precisa ser consertado e o orçamento inicial.
+
+Critérios de Aceitação:
+
+O sistema deve gerar um número único para cada O.S.
+
+Deve ser possível descrever o problema relatado pelo cliente.
+
+O sistema deve permitir adicionar peças e mão de obra com seus respectivos valores.
