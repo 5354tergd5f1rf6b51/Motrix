@@ -1,0 +1,12 @@
+Controle de Status da O.S.
+COMO gestor da oficina,
+
+QUERO alterar e visualizar o status de cada serviço (Pendente, Em Andamento, Concluído, Aguardando Peça),
+
+PARA organizar o fluxo de trabalho da equipe.
+
+Critérios de Aceitação:
+
+O sistema deve permitir filtrar ordens de serviço pelo status atual.
+
+Ao concluir uma O.S., o sistema deve registrar automaticamente a data de finalização.
