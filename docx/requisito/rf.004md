@@ -1,0 +1,12 @@
+Histórico de Manutenção
+COMO mecânico ou atendente,
+
+QUERO consultar o histórico de serviços de um veículo específico,
+
+PARA entender intervenções passadas e facilitar o diagnóstico atual.
+
+Critérios de Aceitação:
+
+O sistema deve listar todas as O.S. finalizadas para aquele veículo.
+
+Deve exibir a data do serviço, quilometragem na época e peças trocadas.
