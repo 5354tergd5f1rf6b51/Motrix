@@ -11,8 +11,8 @@ public class GerenciadorDeConexao {
 
     // URL apontando diretamente para o banco de dados da sua oficina chamado motrix_db
     private static final String URL = "jdbc:mysql://localhost:3306/motrix_db?useTimezone=true&serverTimezone=UTC";
-    private static final String USER = "root";     // Usuário padrão do seu MySQL
-    private static final String PASSWORD = "root"; // Substitua pela senha do seu MySQL local, se for diferente
+    private static final String USER = "root";  
+    private static final String PASSWORD = "Juan2008"; 
 
     /**
      * Abre e retorna uma conexão ativa com o banco de dados.
